@@ -61,19 +61,19 @@ So how exactly do you create a GitHub account?
 ###### _A repo is basically a workspace where you have access to all the git commands you do, it stores all the files._
 #### Making Your First Repo  
 1. First type in ~cd/workspace  
-2. Create a folder called and "first repo" or whatever you want to call it mkdir first-repo  
-3. Now go on to the folder by typing cd first-repo  
+2. Create a folder called and "first repo" or whatever you want to call it `mkdir` first-repo  
+3. Now go on to the folder by typing `cd` first-repo  
 4. Lastly Initialize it  
 **What is git init?**
-  Git init turns the folder that you created into a repository and when it initialzes it begins to save your files by taking "snapshots" of it. 
-5. Now create a new file by typing touch readme.md  
+  `Git init` turns the folder that you created into a repository and when it initialzes it begins to save your files by taking "snapshots" of it. 
+5. Now create a new file by typing `touch` readme.md  
 6. You can open the file and type in something  
-7. type in git add .  
+7. type in `git add` .  
 **what is git add .?**
 Git add, adds your file onto your repository  
-8. Save your edits and give yourself a message of your edit by typing git commit -m ""  
+8. Save your edits and give yourself a message of your edit by typing `git commit -m ""`  
 ** What is git commit?**
-Git commit saves your file's changes. First you need to add something to the staging area and then you commit to save the final changes. 
+`Git commit` saves your file's changes. First you need to add something to the staging area and then you commit to save the final changes. 
 
 #### Making your remote repo
 1.Go on to Github.com  
@@ -89,12 +89,12 @@ Git commit saves your file's changes. First you need to add something to the sta
 ## Workflow & commands
 
 **Here are some Git commands**  
-    1. `Git status` - it is used to keep on track of all the changes you have made. We can use Git Status to see our edits
+    1. `Git status` - it is used to keep on track of all the changes you have made. We can use `git status` to see our edits
     If will either turn red or green.  
     2. `Git commit` - It is used to take a snapshot of your file. You can also use, 
-    `Git commit -m ""` which means that it will save your files and at the same time you could give yourself a message of what were you editing. The messages come in handy.So like when you want to look back at your work you know exactly why you edited parts   
-    3. 'Git add' You could use git add when you want to save your file onto your repository but you have to commit it so that it could be in the version control.   
-    4. `Git push` Pushes your edit and all the shanges you made on your repository onto the cloud. 
+    `Git commit -m ""` which means that it will save your files and at the same time you could give yourself a message of what were you editing. The messages come in handy. So like when you want to look back at your work you know exactly why you edited parts   
+    3. `Git add` You could use git add when you want to save your file onto your repository but you have to commit it so that it could be in the version control.   
+    4. `Git push` Pushes your edit and all the changes you made on your repository onto the cloud. 
     
 ## Error Handling
    What to do if you have errors? I mean everyone makes mistakes  
