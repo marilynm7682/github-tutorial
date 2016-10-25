@@ -95,17 +95,40 @@ Git commit saves your file's changes. First you need to add something to the sta
     `Git commit -m ""` which means that it will save your files and at the same time you could give yourself a message of what were you editing. The messages come in handy.So like when you want to look back at your work you know exactly why you edited parts   
     3. 'Git add' You could use git add when you want to save your file onto your repository but you have to commit it so that it could be in the version control.   
     4. `Git push` Pushes your edit and all the shanges you made on your repository onto the cloud. 
+    
+## Error Handling
+   What to do if you have errors? I mean everyone makes mistakes  
+   Here are some errors that you might face  
+   Error #1. 
+![](https://preview.c9users.io/marilynm7682/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%2010.59.41%20PM.png)  
+What is the problem?  
+_The person did not add the file to the staging area and so that's why it is not green._ 
+   Solution to #1
+![](https://preview.c9users.io/marilynm7682/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%2011.04.23%20PM.png)
+What is the solution?
+_By typing Git add you now have added the file to the staging area therefore it is now green._
 
+   Error #2
+![](https://preview.c9users.io/marilynm7682/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%2011.04.23%20PM.png)
+What is the problem?
+_The problem was that the person who wrote the code forgot to write a message when commiting so the computer did not understand what it was saying.
+   Solution #2
+What is the solution?
+By pressing command q, it means that you quit the changes and then it would ask you if you want to save the files and you could say no by typing "N"
 
+## Collaboration
 
-
-
-
-
-
-
-
-
+How to fork and clone someone else's repository
+    cloning a repository  
+    _when you clone a repository you do not have access to push their remote but you do have access to a local repository_  
+   Forking  a repository
+   _when you fork someone elses repository you have a remote copy of their repository and you have access to push their remote_
+   Let's get started:  
+    1. Go to Github.com  
+    2. Go to the person you want to clone and fork their repository  
+    3. click on the fork icon  
+![](https://preview.c9users.io/marilynm7682/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%2011.27.01%20PM.png)  
+    4. Now copy the SSH key and you're set you could now edit and push your work onto Github.  
 
 
 
