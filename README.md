@@ -93,7 +93,7 @@ Git commit saves your file's changes. First you need to add something to the sta
     If will either turn red or green.  
     2. `Git commit` - It is used to take a snapshot of your file. You can also use, 
     `Git commit -m ""` which means that it will save your files and at the same time you could give yourself a message of what were you editing. The messages come in handy.So like when you want to look back at your work you know exactly why you edited parts   
-    3. 'Git add' You could use git add when you want to save your file onto your repository but you have to commit it so that it could be in the version control.   
+    3. `Git add` You could use git add when you want to save your file onto your repository but you have to commit it so that it could be in the version control.   
     4. `Git push` Pushes your edit and all the shanges you made on your repository onto the cloud. 
     
 ## Error Handling
