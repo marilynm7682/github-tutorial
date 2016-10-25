@@ -3,6 +3,9 @@
 _by Marilyn Morales_
 
 ---
+
+Many developers around the world use github because Github is essential and really helpful. It might seem difficult at first but once you get an understanding of how github works you'll love it. But what exactly is Github?
+
 ## Git vs. GitHub
    **What is Git?**  
   *  _Git is the version control._
@@ -61,7 +64,7 @@ So how exactly do you create a GitHub account?
 ###### _A repo is basically a workspace where you have access to all the git commands you do, it stores all the files._
 #### Making Your First Repo  
 1. First type in ~cd/workspace  
-2. Create a folder called and "first repo" or whatever you want to call it mkdir first-repo  
+2. Create a folder called "first repo" or whatever you want to call it mkdir first-repo  
 3. Now go on to the folder by typing cd first-repo  
 4. Lastly Initialize it  
 **What is git init?**
@@ -130,7 +133,9 @@ How to fork and clone someone else's repository
 ![](https://preview.c9users.io/marilynm7682/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%2011.27.01%20PM.png)  
     4. Now copy the SSH key and you're set you could now edit and push your work onto Github.  
 
-
+Pull requests  
+   What is Pull request?  
+   A pull request is when you fork someone elses repository and you want that person to see your changes; So you make a pull request in order for the person to recognize the changes you made.They can either deny or accept it. 
 
 
 
