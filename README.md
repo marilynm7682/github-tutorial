@@ -5,18 +5,18 @@ _by Marilyn Morales_
 ---
 ## Git vs. GitHub
    **What is Git?**  
-  * ###### _Git is the version control._
-  * ###### _Git runs in the command line._
-  * ###### _takes a "snapshot", or a picture of your code._
+  *  _Git is the version control._
+  *  _Git runs in the command line._
+  *  _takes a "snapshot", or a picture of your code._
    
    **What is Github?**
-  * ###### _Github stores all the code in the cloud_
-  * ###### _Github is aware of all the changes you make in your code._
-  * ###### _Many people can work on the same files at once!_
-  * ###### _[GitHub's Website](github.com)_
+  *  _Github stores all the code in the cloud_
+  *  _Github is aware of all the changes you make in your code._
+  *  _Many people can work on the same files at once!_
+  *  _[GitHub's Website](github.com)_
   
   **What is the difference between Git & GitHub?**  
-* ###### _Git does not require of Github but Github requires of Git_
+* _Git does not require of Github but Github requires of Git_
 
 ---
 ## Initial Setup
@@ -103,17 +103,17 @@ Git commit saves your file's changes. First you need to add something to the sta
 ![](https://preview.c9users.io/marilynm7682/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%2010.59.41%20PM.png)  
 What is the problem?  
 _The person did not add the file to the staging area and so that's why it is not green._ 
-   Solution to #1
+   Solution to #1  
 ![](https://preview.c9users.io/marilynm7682/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%2011.04.23%20PM.png)
-What is the solution?
+What is the solution?  
 _By typing Git add you now have added the file to the staging area therefore it is now green._
 
-   Error #2
+   Error #2  
 ![](https://preview.c9users.io/marilynm7682/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%2011.04.23%20PM.png)
-What is the problem?
+What is the problem?  
 _The problem was that the person who wrote the code forgot to write a message when commiting so the computer did not understand what it was saying.
-   Solution #2
-What is the solution?
+   Solution #2  
+What is the solution?  
 By pressing command q, it means that you quit the changes and then it would ask you if you want to save the files and you could say no by typing "N"
 
 ## Collaboration
