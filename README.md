@@ -61,17 +61,17 @@ So how exactly do you create a GitHub account?
 ###### _A repo is basically a workspace where you have access to all the git commands you do, it stores all the files._
 #### Making Your First Repo  
 1. First type in ~cd/workspace  
-2. Create a folder called and "first repo" or whatever you want to call it mkdir first-repo  
-3. Now go on to the folder by typing cd first-repo  
+2. Create a folder called and "first repo" or whatever you want to call it `mkdir` first-repo  
+3. Now go on to the folder by typing `cd` first-repo  
 4. Lastly Initialize it  
 **What is git init?**
-  Git init turns the folder that you created into a repository and when it initialzes it begins to save your files by taking "snapshots" of it. 
-5. Now create a new file by typing touch readme.md  
+  `Git init` turns the folder that you created into a repository and when it initialzes it begins to save your files by taking "snapshots" of it. 
+5. Now create a new file by typing `touch` readme.md  
 6. You can open the file and type in something  
-7. type in git add .  
+7. type in `git add .`  
 **what is git add .?**
 Git add, adds your file onto your repository  
-8. Save your edits and give yourself a message of your edit by typing git commit -m ""  
+8. Save your edits and give yourself a message of your edit by typing `git commit -m ""`  
 ** What is git commit?**
 Git commit saves your file's changes. First you need to add something to the staging area and then you commit to save the final changes. 
 
