@@ -117,7 +117,15 @@ What is the problem?
 _The problem was that the person who wrote the code forgot to write a message when commiting so the computer did not understand what it was saying.
    Solution #2  
 What is the solution?  
-By pressing command q, it means that you quit the changes and then it would ask you if you want to save the files and you could say no by typing "N"
+By pressing command q, it means that you quit the changes and then it would ask you if you want to save the files and you could say no by typing "N"  
+
+Error #3  
+    What to do if you typed `git init` in the wrong directory?
+-One thing you could do is type in command `rm-rf .git` which basically unitializes git.  
+
+Error #4  
+    How to remove a repository?  
+-If you type `git remote rm origin` it will remove a repository from the remote. 
 
 ## Collaboration
 
